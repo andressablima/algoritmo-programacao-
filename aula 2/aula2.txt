@@ -1,0 +1,6 @@
+numero = int
+preço = float 
+nome = input()
+
+print('Valor da variável  =', numero)
+print('')
